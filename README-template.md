@@ -4,17 +4,15 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Table of contents
 
-- [Overview](#overview)
+- Overview
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- My Process
+  - [VS Code](https://code.visualstudio.com/)
+  - [Many CSS Selectors I didn't know about](#what-i-learned)
+  - [Stack Overflow](https://stackoverflow.com/)
+- [Arnav Ghatti](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
